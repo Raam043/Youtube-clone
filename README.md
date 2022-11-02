@@ -1,7 +1,7 @@
 # `Youtube-clone` Installation with Docker
 Directly you can run this app by using docker images pls visit my DcokerHub account => **[raam043](https://hub.docker.com/u/raam043)**
 ```sh
-docker run --name greetings -d -p 80:80 raam043/greetings
+docker run --name greetings -d -p 80:80 raam043/youtube-clone
 ```
 
 Release linux server and install Jenkins and Docker
